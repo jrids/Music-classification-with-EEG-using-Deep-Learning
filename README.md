@@ -1,4 +1,4 @@
-# Music-classification-with-EEG-using-Deep-Learning
+# Media-classification-with-EEG-using-Deep-Learning
 
 Media classifcation - Movie and Music was done on three datasets:
 1. NMED-T
