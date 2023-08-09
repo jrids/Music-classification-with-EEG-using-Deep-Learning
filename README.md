@@ -9,3 +9,6 @@ with two settings:
 
 1. Within-subject (personalized model)
 2. Cross-subject (generalized model)
+
+For classification, currently CNN architectures are used.
+Currently this repo has only within-subject model for 10 class classifcation with NMED-T dataset.
